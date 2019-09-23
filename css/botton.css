@@ -1,0 +1,64 @@
+
+.description{
+    width: min-content;
+    height: min-content;
+    padding-top: 0%;
+ padding-left: 43%;   
+}
+.moretext{
+    padding-top: 2%;
+    padding-left: 3%;
+}
+.dugacvet{
+    width: 100%;
+}
+.dugayb {
+    width: 100%;
+}
+.textmor{
+    
+    padding-left: 5%;
+}
+.textyellowbottom{
+        position: absolute;
+        left: 49%;
+    bottom: -654%;
+        font-size: 75%;
+    white-space: pre;
+}
+.textblackbottom{
+        position: absolute;
+        left: 24%;
+    bottom: -654%;
+        font-size: 75%;
+    white-space: pre;
+      color: #fefefe;
+}
+.tryforfree{
+       left: 23%;
+    position: absolute;
+    width: 35%;
+    top: 757%;
+
+}
+.tryforfreeyb{
+       left: 66%;
+    position: absolute;
+    width: 35%;
+    top: 756%;
+
+}
+.bayb{
+       left: 35%;
+    position: absolute;
+    width: 35%;
+    top: 756%;
+
+}
+.bayy{
+       left: 53%;
+    position: absolute;
+    width: 35%;
+    top: 756%;
+
+}

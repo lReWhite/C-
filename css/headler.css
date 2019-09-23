@@ -1,0 +1,59 @@
+.baybut {
+     margin: 0;
+    padding: 0;
+   
+    border: none;
+    display: inline;   
+}  
+.menutopcontent{
+    margin: 5%;
+    
+}
+.menutopcontent a{
+   
+    color: #4e4848!important;
+}
+.menuall{
+    padding-top: 6%;
+}
+.top{
+           margin: 0;
+        padding: 0;
+     width: 100%;
+    height: min-content;
+    background-color: #333333;
+}
+.butTop{
+     background-color: #333333;
+    border: 1px;
+    height: 100%;
+    color: #fffff3;
+    border-right: solid 1px #515151;
+    border-left: solid 1px #515151;
+  
+}
+.topContent{
+    height: 100%;
+    padding-left: 61.6145833333%;
+    color: #fffff3;
+    
+}
+.lang{
+    color: #fffff3;
+    background-color: #333333;
+    border: none;
+}
+.Curren{
+       color: #676767;
+    background-color: #333333;
+    border: none;
+}
+.Curren1{
+     background-color: #333333;
+    border: 1px;
+    height: 100%;
+    color: #fffff3;
+    border-left: solid 1px #515151;
+  
+}
+

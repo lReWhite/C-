@@ -1,0 +1,70 @@
+<!doctype html>
+<html>
+ <head>
+  <meta charset="utf-8">
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" />
+     
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+ </head>
+ <body>
+     
+   
+  
+
+
+<style>
+@media only screen and (min-width: 768px) {
+ .dropdown:hover .dropdown-menu {
+ display: block;
+ margin-top: 0;
+ }
+}
+</style>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+ <ul class="navbar-nav mr-auto">
+ <li class="nav-item active">
+ <a class="nav-link" href="12">Home <span class="sr-only">(current)</span></a>
+ </li>
+ <li class="nav-item">
+ <a class="nav-link" href="34">Link</a>
+ </li>
+ 
+ 
+ </ul>
+
+ </div>
+<!--/.nav-collapse -->
+</nav>
+<!--/.navbar -->
+
+
+
+     
+     
+     
+     
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+     
+     
+ 
+ </body>
+</html>
+////////////////
+
+                <div class="menuall">
+                   <div class="menubay">
+                      <button class="menubay" >
+                      <img src="content/middle/menubay.png">
+                      </button>
+                       </div>
+                      <div class="menutt">
+                       <button class="titleinthemenu" >
+                      <img src="content/middle/titleinthemenu.png">
+                      </button>
+                       </div>
+                       <img src="content/middle/menu.png" class="menulog">
+                     </div>

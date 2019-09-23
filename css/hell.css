@@ -1,0 +1,88 @@
+<link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
+
+.hell{
+     
+     font-family: 'Oswald', sans-serif;
+  
+}
+.hellseach{
+
+    background-color: #3f3f3f;
+ 
+   color: #feffff;
+    font-size: 150%;
+    width: 100%;
+    line-height: 2;
+    
+    }
+
+.texthell{
+       
+ 
+    display: inline;
+    padding: 1%;
+}
+.seachell{
+    font-size: large;
+    position: relative;
+    display: inline;
+   
+}
+.sshell{
+    
+    height: 30px;
+    background-color: #3f3f3f;
+    width: 205px;
+}
+.ssbhell{
+     height: 24px;
+  width: 26px;
+  position: absolute;
+  top: 0px;
+  right: 8px;
+  background: #3f3f3f;
+  cursor: pointer;
+}
+.helltable{
+      
+    padding-top: 1%;
+   
+    background-color: #333333;
+    color: #767877;
+}
+.tablehellu{
+    border-collapse: inherit;
+    border-spacing: 29px 11px;
+}
+
+.tablehellu a{
+    color: #767877 !important;
+  text-decoration: none;
+}
+.helpu{
+    padding-top: 3%;
+    border: 0;
+  
+    margin: 0;
+    max-height: inherit;
+     background-color: #333333;
+  
+       padding-bottom: 2%;
+}
+.text2019{
+    padding-top: 3%;
+      font-family: 'Oswald', sans-serif;
+    color: #767877;
+    font-size: small;
+    
+ 
+}
+hr{
+    border: 0;
+    height: 4px;
+    color: #767877;
+     background-color: #767877;
+}
+.helltable a{
+    color: #767877 !important;
+  text-decoration: none;

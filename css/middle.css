@@ -1,0 +1,183 @@
+<link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
+
+.body{
+   
+    background-color: #ffffff;
+    
+}
+.middle{
+    border: none;
+    
+}
+.logo {
+    padding-left: 5%;
+   padding-top: 2%;
+    position: absolute;
+    }
+.serch{
+    height: 45px;
+    width: 318px;
+    padding: 0px;
+}
+.serchlogs{
+    padding: 0px;
+    position: absolute;
+}
+.seachall{
+   box-sizing: content-box ;
+    padding-top: 5%;
+    position: absolute;
+    padding-left: 35%;
+    border: none;
+      height: 45px;
+    width: 372px;
+    margin: 0;
+   
+}
+.bayall{
+    box-sizing: content-box ;
+    padding-top: 5%;
+    width: 272px;
+     height: 45px;
+
+    padding-left: 70%;
+}
+.baylogo{
+    width: 105px;
+}
+.bay{
+    height: 46px;
+        width: 177px;
+    position: absolute;
+    color: #676767;
+    background-color: #333333;
+    border: none;
+    
+}
+.mtop{
+    height: 134px;
+}
+.menuall{
+height: 57px;
+    width: 1169px;
+    padding-top: 5%;
+ padding-left: 8%;   
+}
+.menubay{
+     padding: 0;
+    border: none;
+    padding: none;
+    margin: none;
+    position: absolute;
+       border-right: solid 1px #d6d4d5;
+    border-left: solid 1px #d6d4d5;
+}
+.titleinthemenu{
+     padding: 0;
+     border: none;
+    padding: none;
+    margin: none;
+    position: absolute;
+     border-right: solid 1px #d6d4d5;
+    border-left: solid 1px #d6d4d5;
+}
+.menulog{
+    padding-left: 21%;
+    background-color: #f6f6f6;
+  
+}
+.menutt{
+    padding-left: 6.6%;
+    
+}
+.iqaliflogo{
+    padding-top: 9%;
+    padding-left: 7%;
+}
+.duga{
+  width: 100%;
+}
+.extractor{
+    width: 100%;
+}
+.features{
+    padding-top: 5%;
+    padding-left: 40%;
+    display: table-row;
+}
+.textintable{
+    font-size: 20px;
+    white-space: pre;
+    text-align: center;
+}
+.midlemenu{
+ display: block;
+    padding-left: 6%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.support{
+
+}
+.blackduga{
+    width: 100%;
+}
+.supportblock{
+          padding-top: 5%;
+    padding-left: 44%;
+       width: min-content;
+        height: min-content;
+}
+.textjava{
+    padding-top: 1%;
+    padding-left: 39%;
+    color: #7d7d7d;
+    font-style:oblique;
+}
+        
+        
+.textyellow{
+    position: absolute;
+    left: 50%;
+    top: 113%;
+        font-size: 75%;
+    white-space: pre;
+}
+a{
+     
+    color: #0094ce !important;
+    text-decoration:none;
+}
+.zagy{
+    font-size:200%;
+    font-weight: bolder;
+}
+.dowloady{
+       left: 52%;
+    position: absolute;
+    width: 45%;
+    top: 134%;
+
+}
+.textblack{
+    position: absolute;
+    left: 22%;
+    top: 113%;
+        font-size: 75%;
+    white-space: pre;
+    color: #fefefe;
+    
+}
+.zagb{
+    font-size:200%;
+    font-weight: bolder;
+}
+.dowloadb{
+       left: 35%;
+    position: absolute;
+    width: 42%;
+    top: 134%;
+
+}
+
